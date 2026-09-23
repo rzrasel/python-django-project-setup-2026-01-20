@@ -118,6 +118,7 @@ pip install djangorestframework
 pip list
 
 or
+
 python -m pip install djangorestframework
 pip list
 ```
